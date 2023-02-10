@@ -1,7 +1,7 @@
 ..  _install_NGC_PaddlePaddle_container introduction:
 
 ==============================================
-NGC PaddlePaddle Container Installation Guide
+NVIDIA PaddlePaddle Container Installation Guide
 ==============================================
 
 ----------------------
